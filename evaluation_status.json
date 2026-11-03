@@ -1,0 +1,8 @@
+{
+  "status": "pending",
+  "model_calls": 0,
+  "model_results_csv": "Header only; no model has been evaluated.",
+  "completed": ["240 benchmark questions", "PostGIS ground truth", "120 fixture assertions", "real computed figures"],
+  "pending": ["user-configured model API access", "raw model responses", "model comparison scores and accuracy figure"],
+  "article_claim_policy": "No empirical claims about LLM accuracy or errors before genuine model runs are published."
+}

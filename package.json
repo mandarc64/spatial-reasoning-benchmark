@@ -1,0 +1,16 @@
+{
+  "name": "spatial-reasoning-benchmark",
+  "version": "1.0.0",
+  "description": "240 spatial questions with executable PostGIS ground truth and reproducible figures; LLM evaluation pending",
+  "scripts": {
+    "ground-truth": "node ground_truth.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "@electric-sql/pglite": "0.5.14",
+    "@electric-sql/pglite-postgis": "0.2.14"
+  }
+}

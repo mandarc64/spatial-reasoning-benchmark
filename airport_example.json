@@ -1,0 +1,30 @@
+[
+  {
+    "ident": "KBUR",
+    "name": "Hollywood Burbank/Bob Hope Airport",
+    "lon": -118.35805,
+    "lat": 34.202834,
+    "distance_m": 12600.6221436
+  },
+  {
+    "ident": "KLAX",
+    "name": "Los Angeles International Airport",
+    "lon": -118.407997,
+    "lat": 33.942501,
+    "distance_m": 20117.28469531
+  },
+  {
+    "ident": "KFAT",
+    "name": "Fresno Yosemite International Airport",
+    "lon": -119.718018,
+    "lat": 36.775767,
+    "distance_m": 323579.06423945
+  },
+  {
+    "ident": "KLAS",
+    "name": "Harry Reid International Airport",
+    "lon": -115.151817,
+    "lat": 36.083361,
+    "distance_m": 361662.04086383
+  }
+]

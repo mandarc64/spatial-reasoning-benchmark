@@ -1,0 +1,14 @@
+{
+  "questions_per_task": {
+    "adjacency": 30,
+    "containment": 30,
+    "direction": 30,
+    "distance": 30,
+    "intersection": 30,
+    "multi_step": 30,
+    "radius": 30,
+    "ranking": 30
+  },
+  "total": 240,
+  "llm_evaluation": "pending; zero model calls"
+}

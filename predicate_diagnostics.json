@@ -1,0 +1,34 @@
+[
+  {
+    "label": "Interior",
+    "wkt": "POINT(5 5)",
+    "contains": true,
+    "covers": true,
+    "intersects": true,
+    "within_1m": true
+  },
+  {
+    "label": "Boundary",
+    "wkt": "POINT(0 5)",
+    "contains": false,
+    "covers": true,
+    "intersects": true,
+    "within_1m": true
+  },
+  {
+    "label": "Outside, 0.5 m",
+    "wkt": "POINT(-0.5 5)",
+    "contains": false,
+    "covers": false,
+    "intersects": false,
+    "within_1m": true
+  },
+  {
+    "label": "Outside, 2 m",
+    "wkt": "POINT(-2 5)",
+    "contains": false,
+    "covers": false,
+    "intersects": false,
+    "within_1m": false
+  }
+]
